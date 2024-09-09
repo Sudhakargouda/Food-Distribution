@@ -1,7 +1,4 @@
-# Food-Distribution
-The Food Distribution Management System optimizes surplus food
-donation through technology, user-friendly interfaces, real-time
-inventory, and automated scheduling for efficiency.
+
 ![image](https://github.com/Sudhakargouda/Food-Distribution/assets/141037091/ea67ecd1-8e51-409b-b174-e6bb814eee11)
 
 ![image](https://github.com/Sudhakargouda/Food-Distribution/assets/141037091/81a991d5-7a36-45f1-9f4b-fa9a96ae26f5)
